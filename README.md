@@ -25,8 +25,8 @@ This is the repository of End-to-End Visual Speech Recognition Model which is th
 1. Clone the repository and enter it locally:
 
 ```Shell
-git clone https://github.com/mpc001/Visual_Speech_Recognition_for_Multiple_Languages
-cd Visual_Speech_Recognition_for_Multiple_Languages
+git clone https://github.com/prithviyadav/LipRead.git
+cd LipRead
 ```
 
 2. Setup the environment.
